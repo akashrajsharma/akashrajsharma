@@ -1,12 +1,9 @@
-
 [![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*RHho4pD4ZNgJNvInyPWliA.png)
 <h1 align="center">Hi 👋, I'm Akash Raj Sharma</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="500"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1mM2twZ2s1cWRtNzhzYnY2NjIzeWN4M2xiMnlvNzZhdzE5cm9iYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrajsharma&label=Profile%20views&color=0e75b6&style=flat" alt="akashrajsharma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashrajsharma" alt="akashrajsharma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akashraajsharma" target="blank"><img src="https://img.shields.io/twitter/follow/akashraajsharma?logo=twitter&style=for-the-badge" alt="akashraajsharma" /></a> </p>
 
@@ -21,10 +18,6 @@
 - 📫 How to reach me **akashrajsharmapc@gmail.com**
 
 - ⚡ Fun fact **I think fun is good!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajsharma&show_icons=true&locale=en" alt="akashrajsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashrajsharma&" alt="akashrajsharma" /></p>
+
